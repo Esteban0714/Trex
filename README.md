@@ -1,2 +1,1 @@
-# Trex
-El juego del trex 
+# C18_LP_AA1
